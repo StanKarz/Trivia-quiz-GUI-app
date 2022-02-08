@@ -1,4 +1,4 @@
-# Trivia Quiz App
+# Trivia quiz GUI app
 
 This Python project makes requests to the https://opentdb.com/api.php API and retrieves 10 random true or false (boolean) questions. The Graphical User Interface (GUI) was built with Tkinter the ui.py file contains all the code that customises the visual aspect of the App. Questions are displayed to the user along with an option for true or false. The user receives feedback after each response, the quiz_brain.py file is responsible for keeping track of the user score and providing feedback. The main.py ties together all the python files and intiates the quiz app. 
 
